@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL:[ [Add live site URL here](https://your-live-site-url.com)](http://192.168.1.8:5500/html/newsLetter.html)
+- Live Site URL:[[ [Add live site URL here](https://your-live-site-url.com)](http://192.168.1.8:5500/html/newsLetter.html)](https://github.com/SadiaImran/Newsletter-sign-up-form-with-success-message/blob/main/Screenshots/desktop-design.png)
 
 ## My process
 
