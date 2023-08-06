@@ -39,10 +39,8 @@ Users should be able to:
 **Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
-
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [![Screenshot (486)](https://github.com/SadiaImran/Newsletter-sign-up-form-with-success-message/assets/122505128/4e210dd4-8ba2-4965-aa51-90231931645a)](https://your-live-site-url.com)
-
+- Live Site URL: [Add live site URL here](http://192.168.1.8:5500/html/newsLetter.html))
 ## My process
 
 ### Built with
