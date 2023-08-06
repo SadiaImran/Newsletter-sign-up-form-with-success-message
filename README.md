@@ -40,7 +40,7 @@ Users should be able to:
 
 ### Links
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](http://192.168.1.8:5500/html/newsLetter.html))
+- Live Site URL: [Add live site URL here](http://192.168.1.8:5500/html/newsLetter.html)
 ## My process
 
 ### Built with
